@@ -18,7 +18,7 @@
 2. react course
 
 
-## Learnig Resources
+## Learning Resources
 - [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/)  
 - [NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/)  
 - [Modern React with Redux](https://www.udemy.com/course/react-redux/)  
