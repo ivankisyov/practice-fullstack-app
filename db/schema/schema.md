@@ -1,3 +1,5 @@
+Paste this in https://dbdiagram.io/
+
 ```ts
 Table users {
    id serial [pk, increment]
